@@ -1,0 +1,5 @@
+com\nttdata\aws\lambda\SpringbootAwsLambdaApplication.class
+com\nttdata\aws\lambda\AWSHandler.class
+com\nttdata\aws\lambda\ToUpperCase.class
+com\nttdata\aws\lambda\HelloWorld.class
+com\nttdata\aws\lambda\GatewayTest.class
